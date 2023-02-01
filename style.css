@@ -1,0 +1,208 @@
+*  {
+    border: none;
+    
+ 
+ }
+ 
+ .logo {
+     text-align: center;
+     margin-top: 3%;
+     
+       
+ }
+ 
+ img {
+     width: 300px;
+     height: 290px;
+     border-radius: 100%;
+     
+ }
+ 
+ section {
+     text-align: center;
+     margin-top: 2%;
+     
+     
+     
+      
+ }
+ 
+ 
+ h1 {
+     text-align: center;
+     font-family:sans-serif;
+     margin: 2%;
+     color: #5e5e5e;
+     font-size: 25px;
+     
+ 
+ }
+ 
+ button {
+     padding: 0;
+ }
+ 
+ .botao1 a {
+     display: flex;
+     padding: 20px;
+     font-family: Staatliches;
+     font-weight: bold;
+     color: #ff5757;
+     font-size: 35px;
+     text-decoration: none;
+     width: 600px;
+     height: 70px;
+     position: unset;
+     top: 18px;
+     left: 30%;
+     justify-content: center;
+     align-items: center;
+ 
+     
+       
+     
+ }
+ 
+ 
+ 
+ .botao2 a {
+     color: #ff5757;
+     display: flex;
+     padding: 20px;
+     font-family: Staatliches;
+     font-weight: bold;
+     font-size: 35px;
+     text-decoration: none;
+     width: 600px;
+     height: 70px;
+     position: unset;
+     top: 18px;
+     left: 30%;
+     justify-content: center;
+     align-items: center;
+     
+ 
+ }
+ 
+ .botao3 a {
+     color: #ff5757;
+     display: flex;
+     padding: 20px;
+     font-family: Staatliches;
+     font-weight: bold;
+     font-size: 35px;
+     text-decoration: none;
+     width: 600px;
+     height: 70px;
+     position: unset;
+     top: 18px;
+     left: 30%;
+     justify-content: center;
+     align-items: center;
+     
+ 
+ }
+ 
+ 
+ 
+ .botao4 a {
+     color: #ff5757;
+     display: flex;
+     padding: 20px;
+     font-family: Staatliches;
+     font-weight: bold;
+     font-size: 35px;
+     text-decoration: none;
+     width: 600px;
+     height: 70px;
+     position: unset;    
+     top: 18px;
+     left: 30%;
+     justify-content: center;
+     align-items: center;
+     
+ }
+ 
+ .botao5 a {
+     display: flex;
+     padding: 20px;
+     font-family: Staatliches;
+     font-weight: bold;
+     color: #ff5757;
+     font-size: 35px;
+     text-decoration: none;
+     width: 600px;
+     height: 70px;
+     position: unset;
+     top: 18px;
+     left: 30%;
+     justify-content: center;
+     align-items: center;
+ }
+     
+ 
+ a {
+     background-color: #d8d831;
+ }
+ 
+ 
+ footer {
+    margin: 50px;
+ }
+ 
+ @media (max-width: 798px) {
+    .botao1 a {
+      padding: 10px;
+      font-size: 20px;
+      width: 300px;
+      height: 35px;
+      justify-content: center;
+      align-items: center;
+   }
+   .botao2 a {
+      padding: 10px;
+      font-size: 20px;
+      width: 300px;
+      height: 35px;
+      justify-content: center;
+      align-items: center;
+   }
+   .botao3 a {
+      padding: 10px;
+      font-size: 20px;
+      width: 300px;
+      height: 35px;
+      justify-content: center;
+      align-items: center;
+   }
+   .botao4 a {
+      padding: 10px;
+      font-size: 20px;
+      width: 300px;
+      height: 35px;
+      justify-content: center;
+      align-items: center;
+   }
+   .botao5 a {
+      padding: 10px;
+      font-size: 20px;
+      width: 300px;
+      height: 35px;
+      justify-content: center;
+      align-items: center;
+   }
+   h1 {
+    font-size: 15px;
+    margin: 4%;
+   }
+  
+   img {
+    width: 170px;
+    height: 160px;
+    margin-top: 0%;
+   }
+}
+    
+    
+
+ 
